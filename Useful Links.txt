@@ -3,3 +3,8 @@ https://subscription.packtpub.com/book/data/9781838987312/2/ch02lvl1sec16/extrac
 https://course.spacy.io/en/
 https://cs224d.stanford.edu/lecture_notes/
 https://radimrehurek.com/gensim/
+https://www.theaidream.com/post/google-bert-understanding-the-architecture
+https://thinkinfi.com/continuous-bag-of-words-cbow-single-word-model-how-it-works/
+https://thinkinfi.com/word2vec-skip-gram-explained/
+https://ruder.io/word-embeddings-1/
+
