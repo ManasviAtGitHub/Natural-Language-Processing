@@ -7,4 +7,5 @@ https://www.theaidream.com/post/google-bert-understanding-the-architecture
 https://thinkinfi.com/continuous-bag-of-words-cbow-single-word-model-how-it-works/
 https://thinkinfi.com/word2vec-skip-gram-explained/
 https://ruder.io/word-embeddings-1/
-
+https://jalammar.github.io/illustrated-transformer/
+https://jalammar.github.io/illustrated-bert/
