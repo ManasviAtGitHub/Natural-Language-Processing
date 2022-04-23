@@ -9,3 +9,5 @@ https://thinkinfi.com/word2vec-skip-gram-explained/
 https://ruder.io/word-embeddings-1/
 https://jalammar.github.io/illustrated-transformer/
 https://jalammar.github.io/illustrated-bert/
+https://huggingface.co/bert-base-uncased?text=Paris+is+the+%5BMASK%5D+of+France
+https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
